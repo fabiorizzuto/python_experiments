@@ -98,4 +98,10 @@ ENV/
 /site
 
 # mypy
+.idea/
 .mypy_cache/
+dailyprogrammer/.DS_Store
+dailyprogrammer/challenge_343_major_scales/.DS_Store
+dailyprogrammer/challenge_343_mozart_dice/.DS_Store
+node/.DS_Store
+.DS_Store
